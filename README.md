@@ -190,7 +190,7 @@ Open up the `index.html` file. Scroll down to around line 114 and 137. You
 should see something that looks like this:
 
 ```html
-<<<<<<< HEAD
+
   <!-- Begin Profile -->
   <li class="home-blog-post">
     <div class="blog-thumb">
