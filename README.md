@@ -231,9 +231,7 @@ Remember, Git does its best to merge the code, but sometimes it just doesn't
 work. You need to complete the merge yourself by manually adjusting the code.
 Git gives you a few hints to help us out:
 
-- `<<<<<<< HEAD` - the beginning of the original branch (`master`)
-- `=======` - the end of the original branch/the beginning of the branch being merged in (`marty-mcfly`)
-- `>>>>>>> marty-mcfly` - the end of the new branch ( `marty-mcfly`)
+
 
 Take your time and shift the code around, separating the `MARTY MCFLY` and `DOC
 BROWN` code blocks. Use the markers from git as a guide.
